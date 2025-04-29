@@ -13,9 +13,4 @@ abstract class Controller
         $response = compact('data', 'message');
         return new JsonResponse($response, $status);
     }
-
-    public function asdhfjasdhfja()
-    {
-        $a = 'jasdklf';
-    }
 }
