@@ -1,0 +1,4 @@
+{
+    "pattern": "^(feature|fix|hotfix|chore)\/.+$",
+    "errorMsg": "Branch name validation failed. Please rename your current branch"
+}

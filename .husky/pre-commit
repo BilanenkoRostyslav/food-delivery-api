@@ -1,0 +1,2 @@
+echo 'test'
+docker exec -t php-fpm php artisan insights --fix --no-interaction
